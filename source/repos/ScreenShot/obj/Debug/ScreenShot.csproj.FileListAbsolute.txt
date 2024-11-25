@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ScreenShot\bin\Debug\ScreenShot.exe.config
+C:\Users\user\source\repos\ScreenShot\bin\Debug\ScreenShot.exe
+C:\Users\user\source\repos\ScreenShot\bin\Debug\ScreenShot.pdb
+C:\Users\user\source\repos\ScreenShot\obj\Debug\ScreenShot.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ScreenShot\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\ScreenShot\obj\Debug\App.g.cs
+C:\Users\user\source\repos\ScreenShot\obj\Debug\ScreenShot_MarkupCompile.cache
+C:\Users\user\source\repos\ScreenShot\obj\Debug\ScreenShot_MarkupCompile.lref
+C:\Users\user\source\repos\ScreenShot\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\ScreenShot\obj\Debug\ScreenShot.g.resources
+C:\Users\user\source\repos\ScreenShot\obj\Debug\ScreenShot.Properties.Resources.resources
+C:\Users\user\source\repos\ScreenShot\obj\Debug\ScreenShot.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ScreenShot\obj\Debug\ScreenShot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ScreenShot\obj\Debug\ScreenShot.exe
+C:\Users\user\source\repos\ScreenShot\obj\Debug\ScreenShot.pdb
